@@ -2,6 +2,7 @@
 int main()
 { int a,s;
   s=square(a)
+  printf("square s=%d",s);  
   retur 0;  
 }
 int square(int x)
